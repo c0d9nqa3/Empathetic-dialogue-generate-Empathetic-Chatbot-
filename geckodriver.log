@@ -1,0 +1,86 @@
+1694491502535	geckodriver	INFO	Listening on 127.0.0.1:54246
+1694491504673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofileGeAvXV"
+1694491505271	geckodriver	INFO	Listening on 127.0.0.1:54257
+1694491508306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofile9eA9cT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694491509101	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694491509239	Marionette	INFO	Listening on port 54267
+WebDriver BiDi listening on ws://127.0.0.1:54258
+Read port: 54267
+1694491509669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54258/devtools/browser/0f68d66c-71e1-41a4-b92c-4e911412be19
+1694492022781	Marionette	INFO	Stopped listening on port 54267
+Dynamically enable window occlusion 1
+[Parent 19452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22316, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22316, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22316, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22316, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 19452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22316, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1698534233019	geckodriver	INFO	Listening on 127.0.0.1:50269
+1698534236107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofile8yY0k9"
+1698534236568	geckodriver	INFO	Listening on 127.0.0.1:50276
+1698534239623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofilekfvMSV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698534240269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698534240378	Marionette	INFO	Listening on port 50293
+WebDriver BiDi listening on ws://127.0.0.1:50277
+Read port: 50293
+1698534240663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50277/devtools/browser/5a61697c-5fbb-43b3-b30d-6a8431442fbf
+1698534377131	geckodriver	INFO	Listening on 127.0.0.1:50474
+1698534380175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofileIrDivu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698534380537	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698534380617	Marionette	INFO	Listening on port 50485
+WebDriver BiDi listening on ws://127.0.0.1:50475
+Read port: 50485
+1698534380867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50475/devtools/browser/aa726de5-612b-4b2c-9ac5-4bbdfc5650e2
+1698535027995	Marionette	INFO	Stopped listening on port 50485
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofileM3zOsD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698534609802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698534609882	Marionette	INFO	Listening on port 50588
+WebDriver BiDi listening on ws://127.0.0.1:50581
+Read port: 50588
+1698534610034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50581/devtools/browser/9257d67e-c9fd-4594-b40b-f330078ad35e
+1698535027325	Marionette	INFO	Stopped listening on port 50588
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofilePLVVvt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698534645129	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698534645202	Marionette	INFO	Listening on port 50645
+WebDriver BiDi listening on ws://127.0.0.1:50631
+Read port: 50645
+1698534645411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50631/devtools/browser/67332325-538b-421b-a8e2-4250e0f1503e
+1698535026134	Marionette	INFO	Stopped listening on port 50645
+Dynamically enable window occlusion 1
+1698608146469	geckodriver	INFO	Listening on 127.0.0.1:61916
+1698608149512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Steven\\AppData\\Local\\Temp\\rust_mozprofileptGA9J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698608149975	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698608150064	Marionette	INFO	Listening on port 61925
+Read port: 61925
+WebDriver BiDi listening on ws://127.0.0.1:61917
+1698608150157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61917/devtools/browser/75422ccf-3426-4f57-96ea-34d34f98f96b
