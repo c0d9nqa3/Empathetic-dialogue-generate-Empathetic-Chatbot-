@@ -11,6 +11,3 @@ Key components include:
 - Support for training, evaluation, and interactive chatting
 
 This project demonstrates how empathetic computing and natural language generation can be combined to build emotionally aware dialogue systems. It provides a strong foundation for further research or product development in empathetic AI applications.
-
-**Author:** Weijia Yan  
-**License:** MIT
